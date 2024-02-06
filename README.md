@@ -14,5 +14,3 @@ MinPQ is the priority queue I created.
 
 MyHashTable is the hash tale I created.
 
-
-***** Encode, Decode and frequency file work for alice30.txt but decode does not show the right decoded output for ur.jpg ****
